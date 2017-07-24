@@ -1,6 +1,5 @@
-### Update
 
-An example on how to integrate this code into your own semantic segmentation pipeline can be found in my [KittiSeg](https://github.com/MarvinTeichmann/KittiSeg) project repository.
+This code is based on the code of [MarvinTeichmann](https://github.com/MarvinTeichmann/tensorflow-fcn). The original code can only test the model, I add training process on it.
 
 # tensorflow-fcn
 This is a one file Tensorflow implementation of [Fully Convolutional Networks](http://arxiv.org/abs/1411.4038) in Tensorflow. The code can easily be integrated in your semantic segmentation pipeline. The network can be applied directly or finetuned to perform semantic segmentation using tensorflow training code.
